@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DialogWithCheckbox</string>
+
+    <string-array name="select_symptoms">
+        <item>Fever</item>
+        <item>Diarrhea</item>
+        <item>Fatigue</item>
+        <item>Fatigue</item>
+        <item>Muscle aches</item>
+        <item>Coughing</item>
+        <item>Bacteria</item>
+        <item>Viruses</item>
+        <item>Fungi</item>
+        <item>Parasites</item>
+        <item>Diarrhea</item>
+        <item>Fever</item>
+        <item>Coughing</item>
+    </string-array>
+</resources>
